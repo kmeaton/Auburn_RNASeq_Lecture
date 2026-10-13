@@ -1,5 +1,5 @@
-# UAF RNASeq Lecture
-This repository contains scripts and a short walkthrough of an RNA-Seq analysis pipeline, to be used by Dr. Jessica Glass's Genomics and Bioinformatics class at the University of Alaska Fairbanks.
+# Auburn RNASeq Lecture
+This repository contains scripts and a short walkthrough of an RNA-Seq analysis pipeline, to be used by Dr. Moisés Bernal's Fall 2026 Molecular Ecology class at Auburn University.
 
 ## Contents
 1. [Getting set up](https://github.com/kmeaton/UAF_RNASeq_Lecture#getting-set-up)
